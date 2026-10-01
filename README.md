@@ -22,7 +22,7 @@ Fitness Tracker Psuedocode and Flowchart and IPO Chart
 
 ## 3. Psuedocode 
 
-
+```text
  Module Main()
      DECLARE Integer total_strength = 0
      DECLARE Integer total_active = 0

@@ -31,7 +31,7 @@ Fitness Tracker Psuedocode and Flowchart and IPO Chart
      DECLARE String sub_choice = "" 
      DECLARE Real duration = 0,0 
      DECLARE String activity_name = ""
-     .
+     
      DISPLAY "==================================="
      DISPLAY "      CAMPUS FITNESS TRACKER "
      DISPLAY "==================================="

@@ -24,7 +24,7 @@ Fitness Tracker Psuedocode and Flowchart and IPO Chart
 
 
  Module Main()
-    DECLARE Integer total_cardio = 0 
+     DECLARE Integer total_cardio = 0 
      DECLARE Integer total_strength = 0 
      DECLARE Integer total_active = 0
      DECLARE String main_choice = ""
